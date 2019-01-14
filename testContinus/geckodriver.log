@@ -1,0 +1,1656 @@
+1536826399452	geckodriver	INFO	geckodriver 0.21.0
+1536826399458	geckodriver	INFO	Listening on 127.0.0.1:49699
+1536826402499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.pTKG4Lht6dxp"
+*** You are running in headless mode.
+1536826404067	Marionette	INFO	Listening on port 49731
+1536826404112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536826404132	Marionette	DEBUG	[6442450945] Frame script loaded
+1536826404178	Marionette	DEBUG	[6442450945] Frame script registered
+1536826404224	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536826404738	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536826404912	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+[Parent 10312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536826407912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1536826407912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1536826407912	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1536826407913	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1536826408347	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451025
+1536826408348	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451026
+1536826408350	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451031
+1536826408350	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451032
+1536826408350	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451033
+1536826408667	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1536826408670	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451055
+1536826408672	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451057
+1536826408673	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451059
+1536826408675	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1536826408676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1536826409188	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1536826409394	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451028
+1536826409607	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1536826410445	Marionette	INFO	Stopped listening on port 49731
+[Parent 10312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6184, Chrome_ChildThread] [Child 3372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3372, Chrome_ChildThread] WARNI
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NG: pipe er
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r: 109: file
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ z:/build/build/src/ipc
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+/c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+hromium/src
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+/chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/common/
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ip
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+c_channel_w
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+in.cc,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ l
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ine 346
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536908519327	geckodriver	INFO	geckodriver 0.21.0
+1536908519333	geckodriver	INFO	Listening on 127.0.0.1:53456
+1536908522385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.bjbr3wIJYLb0"
+*** You are running in headless mode.
+1536908523940	Marionette	INFO	Listening on port 53483
+1536908524037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536908524060	Marionette	DEBUG	[6442450945] Frame script loaded
+1536908524061	Marionette	DEBUG	[6442450945] Frame script registered
+1536908524139	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536908524547	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536908524780	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1536908525657	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1536908525658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1536908525658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1536908525934	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1536908525935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1536908525935	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1536908525936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1536908525936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451003
+1536908525936	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1536908526848	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451055
+1536908526852	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451057
+1536908526888	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451067
+1536908526893	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451077
+1536908526898	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451079
+1536908527321	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451084
+1536908527560	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451092
+1536908527709	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451094
+1536908527710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451096
+1536908527710	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451098
+1536908527711	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451100
+1536908527852	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1536908528267	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1536908543628	Marionette	INFO	Stopped listening on port 53483
+[Child 13320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13320, Chrome_ChildThread] WAR[Parent 8632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11484, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 11484, Chrome_ChildThread] [Parent 8632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537188362900	geckodriver	INFO	geckodriver 0.21.0
+1537188362915	geckodriver	INFO	Listening on 127.0.0.1:49551
+1537188365959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.92jyWAZ2esrw"
+*** You are running in headless mode.
+1537188367529	Marionette	INFO	Listening on port 49581
+1537188367579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537188367598	Marionette	DEBUG	[6442450945] Frame script loaded
+1537188367625	Marionette	DEBUG	[6442450945] Frame script registered
+1537188367662	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537188368050	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537188368449	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1537188369743	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1537188369743	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1537188369743	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1537188369743	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1537188369743	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537188369744	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1537188370025	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+JavaScript error: https://players.brightcove.net/5436121856001/default_default/index.min.js, line 1: TypeError: t is null
+JavaScript error: https://players.brightcove.net/5436121856001/default_default/index.min.js, line 1: TypeError: e is null
+1537188370164	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1537188370168	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+JavaScript error: https://players.brightcove.net/5436121856001/default_default/index.min.js, line 1: TypeError: t is null
+1537188370332	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1537188370332	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1537188370333	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1537188370333	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1537188370333	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1537188370748	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451039
+1537188370994	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451049
+1537188370996	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1537188371000	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1537188371002	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1537188371006	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451073
+1537188371289	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451075
+1537188371786	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1537188372314	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1537188387995	Marionette	INFO	Stopped listening on port 49581
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[Child 15156, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15156, Chrome_ChildThread] WARNIN[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10940, Chro1539255702718	geckodriver	INFO	geckodriver 0.21.0
+1539255702729	geckodriver	INFO	Listening on 127.0.0.1:57073
+1539255705754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.4VYg8CeLAOWu"
+*** You are running in headless mode.
+1539255707220	Marionette	INFO	Listening on port 57081
+1539255707372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539255707398	Marionette	DEBUG	[6442450945] Frame script loaded
+1539255707403	Marionette	DEBUG	[6442450945] Frame script registered
+1539255707418	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539255707824	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539255708691	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539255709519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539255709519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539255709519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539255709519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539255709520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539255710111	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539255710111	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539255710114	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539255710115	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539255710115	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539255710644	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1539255711106	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1539255711124	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1539255711144	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1539255711150	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1539255711576	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451075
+1539255711949	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539255712147	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539255737140	Marionette	INFO	Stopped listening on port 57081
+[Child 42888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42888, C[Parent 32508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34948, Chrome_ChildThread] WARNING:[Parent 32508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539255769685	geckodriver	INFO	geckodriver 0.21.0
+1539255769696	geckodriver	INFO	Listening on 127.0.0.1:57399
+1539255772706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.1o1fvJwXW6QY"
+*** You are running in headless mode.
+1539255774415	Marionette	INFO	Listening on port 57443
+1539255774819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539255774843	Marionette	DEBUG	[6442450945] Frame script loaded
+1539255774844	Marionette	DEBUG	[6442450945] Frame script registered
+1539255774854	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539255775237	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539255775773	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539255776827	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539255776827	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539255776827	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539255776827	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539255776828	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539255776834	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539255776835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539255776835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539255776835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539255776835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539255776835	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539255777410	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539255777410	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539255777411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539255777411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539255777411	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539255778208	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1539255778215	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+1539255778241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451057
+1539255778350	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451062
+1539255778481	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451072
+1539255778718	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451074
+1539255779653	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539262638459	geckodriver	INFO	geckodriver 0.21.0
+1539262638465	geckodriver	INFO	Listening on 127.0.0.1:56271
+1539262641470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.QwwROCuu8PgA"
+*** You are running in headless mode.
+1539262643143	Marionette	INFO	Listening on port 56280
+1539262643582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262643608	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262643609	Marionette	DEBUG	[6442450945] Frame script registered
+1539262643623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262644026	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262644436	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539262645528	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539262645529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539262645529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1539262645529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539262645529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539262645529	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539262645530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1539262645530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1539262645530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1539262645530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1539262645530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1539262646084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1539262646084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1539262646094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451003
+1539262646094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451004
+1539262646094	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451005
+1539262646795	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451041
+1539262646803	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451043
+1539262647053	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1539262647144	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+1539262647150	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451049
+1539262647747	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451070
+1539262648391	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451000
+1539262648843	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539262715861	geckodriver	INFO	geckodriver 0.21.0
+1539262715872	geckodriver	INFO	Listening on 127.0.0.1:57022
+1539262718878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.pnjY5pFPjt8B"
+*** You are running in headless mode.
+1539262720560	Marionette	INFO	Listening on port 57032
+1539262720999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262721023	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262721024	Marionette	DEBUG	[6442450945] Frame script registered
+1539262721041	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262721482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262721910	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539262722992	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539262722992	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1539262722993	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539262723486	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539262723486	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539262723489	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1539262723489	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1539262723489	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1539262724079	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451035
+1539262724398	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1539262724399	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+1539262724408	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451049
+1539262724431	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1539262725031	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1539262725174	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539262726530	Marionette	INFO	Stopped listening on port 57032
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4356, Chrome_Ch1539262727632	geckodriver	INFO	geckodriver 0.21.0
+1539262727642	geckodriver	INFO	Listening on 127.0.0.1:57218
+1539262730659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.14Jo9liZlt7g"
+*** You are running in headless mode.
+1539262732258	Marionette	INFO	Listening on port 57232
+1539262732283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262732308	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262732316	Marionette	DEBUG	[6442450945] Frame script registered
+1539262732364	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262733099	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262733763	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.telegraph.co.uk/
+1539262734535	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1539262736099	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539262736100	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539262736502	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539262736699	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539262737307	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539262737537	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539262740294	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.telegraph.co.uk/
+1539262740869	Marionette	INFO	Stopped listening on port 57232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 44764, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Child 44764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el_win.cc, line 346
+[Child 13100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13100, Chro1539262742023	geckodriver	INFO	geckodriver 0.21.0
+1539262742033	geckodriver	INFO	Listening on 127.0.0.1:57518
+1539262745038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.tgYujBJ1MSSV"
+*** You are running in headless mode.
+1539262746551	Marionette	INFO	Listening on port 57554
+1539262746671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262746695	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262746700	Marionette	DEBUG	[6442450945] Frame script registered
+1539262746712	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262746988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262747209	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.theguardian.com/international
+JavaScript error: https://assets.guim.co.uk/javascripts/7f93fef92e38c73c8d0d/graun.commercial.js, line 1: Error: No LOTCC in window
+1539262748523	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.theguardian.com/international
+1539262748889	Marionette	INFO	Stopped listening on port 57554
+[Child 5892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5892, Chrome[Parent 18756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1532, Chrome_ChildT[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8704, Chrome_ChildThread] WARNING: p1539262749769	geckodriver	INFO	geckodriver 0.21.0
+1539262749775	geckodriver	INFO	Listening on 127.0.0.1:57684
+1539262752785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.K9HHwUEnUV4h"
+*** You are running in headless mode.
+1539262754652	Marionette	INFO	Listening on port 57725
+1539262754909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262754941	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262754950	Marionette	DEBUG	[6442450945] Frame script registered
+1539262754964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262755412	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262756854	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.lesechos.fr/
+JavaScript error: https://www.lesechos.fr/, line 63: TypeError: top.ONFOCUS is undefined
+1539262757452	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539262757453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539262757454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539262757454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539262757454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1539262757454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539262758620	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451013
+1539262759788	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1539262760363	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451067
+1539262760799	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.lesechos.fr/
+1539262762101	Marionette	INFO	Stopped listening on port 57725
+[Child 5340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5340, Chrome_ChildThread] W
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539262764140	geckodriver	INFO	geckodriver 0.21.0
+1539262764151	geckodriver	INFO	Listening on 127.0.0.1:58121
+1539262767159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.GF7eg4Zz1CUW"
+*** You are running in headless mode.
+1539262768935	Marionette	INFO	Listening on port 58132
+1539262769271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262769297	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262769298	Marionette	DEBUG	[6442450945] Frame script registered
+1539262769310	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262769541	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262770710	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.la-croix.com/
+1539262773148	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.la-croix.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-972532676, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-972532676, line 74: unreachable code after return statement
+1539262773900	Marionette	INFO	Stopped listening on port 58132
+[Child 8964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8964, [Child 45220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45220, Chro1539262774965	geckodriver	INFO	geckodriver 0.21.0
+1539262774972	geckodriver	INFO	Listening on 127.0.0.1:58251
+1539262777972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.yWY4V1f7WHkz"
+*** You are running in headless mode.
+1539262779562	Marionette	INFO	Listening on port 58259
+1539262779601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262779625	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262779643	Marionette	DEBUG	[6442450945] Frame script registered
+1539262779672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262780216	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262781624	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.liberation.fr/
+1539262781846	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539262782972	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539262783547	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451095
+1539262785653	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451216
+1539262792775	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451339
+1539262793426	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451381
+1539262793428	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451383
+1539262793428	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451385
+1539262799618	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.liberation.fr/
+1539262799883	Marionette	INFO	Stopped listening on port 58259
+[Parent 41064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14204,
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ild 4
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+5128, Chrome_Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ldThread] WARNING: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 45128, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e_ChildThread]
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ WARNING: pipe error: 109: f
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ile z:/buil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d/build/src/ipc/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539262802007	geckodriver	INFO	geckodriver 0.21.0
+1539262802018	geckodriver	INFO	Listening on 127.0.0.1:58898
+1539262805013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.4pW4wujWglO4"
+*** You are running in headless mode.
+1539262807238	Marionette	INFO	Listening on port 58950
+1539262807739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262807768	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262807769	Marionette	DEBUG	[6442450945] Frame script registered
+1539262807780	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262808236	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262809905	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.lefigaro.fr/
+1539262811052	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539262811052	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1539262811142	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1539262812287	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1539262812753	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451010
+1539262813112	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451017
+1539262813555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451022
+1539262813555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451024
+1539262813555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451020
+1539262813555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451025
+1539262813555	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1539262813818	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1539262815120	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.lefigaro.fr/
+1539262816746	Marionette	INFO	Stopped listening on port 58950
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: http://cdn.krxd.net/ctjs/controltag.js.c41d96148598462657526acd569e1aa2, line 5: TypeError: c.win is undefined
+JavaScript error: https://a.f1g.fr/assets-sl/figanalytics/figanalytics.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 44504, Chrome_ChildThread] WARNING: p
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ipe error: 232: file z:/build/build/src/ipc/chromium/sr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+c/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 44504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+c/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43764, Chrome_1539262818279	geckodriver	INFO	geckodriver 0.21.0
+1539262818285	geckodriver	INFO	Listening on 127.0.0.1:59202
+1539262821296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.tYxbokz683tt"
+*** You are running in headless mode.
+1539262823353	Marionette	INFO	Listening on port 59211
+1539262823451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262823478	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262823482	Marionette	DEBUG	[6442450945] Frame script registered
+1539262823497	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262823762	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262824261	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.lemonde.fr/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-15394037-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-15394037-2, line 74: unreachable code after return statement
+1539262825634	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539262826298	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539262826299	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1539262827730	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.lemonde.fr/
+1539262827961	Marionette	INFO	Stopped listening on port 59211
+[Parent 22964, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Chi
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ld 45304, Chrome_ChildThread] WARNING
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x910006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 45304, Chrome_ChildTh[Parent 22964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44604, Chr1539262828970	geckodriver	INFO	geckodriver 0.21.0
+1539262828982	geckodriver	INFO	Listening on 127.0.0.1:59396
+1539262831994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.kH8dw8cTgD7k"
+*** You are running in headless mode.
+1539262833570	Marionette	INFO	Listening on port 59404
+1539262833606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262833638	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262833655	Marionette	DEBUG	[6442450945] Frame script registered
+1539262833694	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262835030	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.sueddeutsche.de/staticassets/js/sde-core.js?r=1537285728, line 120: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://media-cdn.sueddeutsche.de/globalassets/adcontroller/cdn_sz/9a03a5f1af31270c4eb6c6e1f68912a6, line 44: unreachable code after return statement
+JavaScript warning: https://media-cdn.sueddeutsche.de/globalassets/adcontroller/cdn_sz/9a03a5f1af31270c4eb6c6e1f68912a6, line 154: unreachable code after return statement
+1539262836172	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.sueddeutsche.de/
+1539262836860	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539262836998	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539262839277	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.sueddeutsche.de/
+1539262840040	Marionette	INFO	Stopped listening on port 59404
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 45852, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ead] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 45852, Chrome_C[Parent 7000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539262841104	geckodriver	INFO	geckodriver 0.21.0
+1539262841111	geckodriver	INFO	Listening on 127.0.0.1:59529
+1539262844109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.Uq8XDc479X0C"
+*** You are running in headless mode.
+1539262845907	Marionette	INFO	Listening on port 59541
+1539262846220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262846251	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262846254	Marionette	DEBUG	[6442450945] Frame script registered
+1539262846275	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262846413	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.faz.net/cp60/iqadcontroller.js, line 44: unreachable code after return statement
+JavaScript warning: http://www.faz.net/cp60/iqadcontroller.js, line 278: unreachable code after return statement
+1539262847371	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539262848452	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.faz.net/aktuell/
+JavaScript error: http://www.faz.net/js/jquery-2.1.1.min.533adf8a.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.faz.net/js/jquery-2.1.1.min.533adf8a.js line 1 > eval, line 6: ReferenceError: changeButton is not defined
+1539262849640	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539262850353	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539262850656	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539262850670	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539262851473	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.faz.net/aktuell/
+1539262852524	Marionette	INFO	Stopped listening on port 59541
+[C
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 43572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1539262854070	geckodriver	INFO	geckodriver 0.21.0
+1539262854080	geckodriver	INFO	Listening on 127.0.0.1:59692
+1539262857052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.M5Iz8HhGFipw"
+*** You are running in headless mode.
+1539262858555	Marionette	INFO	Listening on port 59704
+1539262858664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262858694	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262858695	Marionette	DEBUG	[6442450945] Frame script registered
+1539262858715	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262858881	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262859250	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.welt.de/
+JavaScript warning: https://tags.tiqcdn.com/utag/axelspringer/welt/prod/utag.js, line 126: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: https://tags.tiqcdn.com/utag/axelspringer/welt/prod/utag.js, line 126: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: https://tags.tiqcdn.com/utag/axelspringer/welt/prod/utag.js, line 126: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: https://tags.tiqcdn.com/utag/axelspringer/welt/prod/utag.js, line 126: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1539262862003	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539262862234	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539262862234	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1539262862234	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539262862427	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.welt.de/
+1539262863100	Marionette	INFO	Stopped listening on port 59704
+[Child 37088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37088, Ch[1539262864099	geckodriver	INFO	geckodriver 0.21.0
+1539262864105	geckodriver	INFO	Listening on 127.0.0.1:59848
+1539262867097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.KJN0RLz4kXdn"
+*** You are running in headless mode.
+1539262868802	Marionette	INFO	Listening on port 59856
+1539262869207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262869234	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262869235	Marionette	DEBUG	[6442450945] Frame script registered
+1539262869245	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262869402	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.handelsblatt.com/js/20808888/108/iqadcontroller.js, line 64: unreachable code after return statement
+JavaScript warning: https://www.handelsblatt.com/js/20808888/108/iqadcontroller.js, line 174: unreachable code after return statement
+1539262871312	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.handelsblatt.com/
+1539262871803	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1539262873774	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539262875629	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1539262877413	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.handelsblatt.com/
+1539262877941	Marionette	INFO	Stopped listening on port 59856
+[Child 42576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42576, Chrome_ChildTh[Parent 23948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29388, Chro1539262879015	geckodriver	INFO	geckodriver 0.21.0
+1539262879024	geckodriver	INFO	Listening on 127.0.0.1:60006
+1539262882042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.vSEZxei0HsTv"
+*** You are running in headless mode.
+1539262883783	Marionette	INFO	Listening on port 60014
+1539262884155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262884182	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262884183	Marionette	DEBUG	[6442450945] Frame script registered
+1539262884198	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262884493	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://stadvtools.akamaized.net/tealium/distro/corriere/prod/utag.js, line 294: unreachable code after return statement
+JavaScript warning: https://js2.corriereobjects.it/includes2013/LIBS/js/corriere_home_2018.sjs?v=20180920195013&desktop, line 67: unreachable code after return statement
+JavaScript warning: https://js2.corriereobjects.it/includes2013/LIBS/js/tracking/TrackFunctions.js?v=20180316113244, line 577: unreachable code after return statement
+1539262885227	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.corriere.it/
+JavaScript warning: https://stadvtools.akamaized.net/tealium/distro/corriere/prod/utag.js, line 294: unreachable code after return statement
+1539262886553	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.corriere.it/
+1539262886706	Marionette	INFO	Stopped listening on port 60014
+[Child 39560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://www.corriere.it/, line 3646: ReferenceError: RcsMostViewed is not defined
+[Parent 42976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39768, Chrome_Ch[Child 45736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45736, Chrome1539262887759	geckodriver	INFO	geckodriver 0.21.0
+1539262887769	geckodriver	INFO	Listening on 127.0.0.1:60081
+1539262890765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.fSQUiPpvcmib"
+*** You are running in headless mode.
+1539262892351	Marionette	INFO	Listening on port 60090
+1539262892386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262892413	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262892430	Marionette	DEBUG	[6442450945] Frame script registered
+1539262892459	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262892794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262893561	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.repubblica.it/
+1539262895298	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.repubblica.it/
+1539262895431	Marionette	INFO	Stopped listening on port 60090
+[Parent 45284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25432, Chrome_ChildThread] WA[Parent 45284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539262896222	geckodriver	INFO	geckodriver 0.21.0
+1539262896228	geckodriver	INFO	Listening on 127.0.0.1:60147
+1539262899227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.nKiJrgkkl4Z3"
+*** You are running in headless mode.
+1539262900763	Marionette	INFO	Listening on port 60174
+1539262900857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262900877	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262900891	Marionette	DEBUG	[6442450945] Frame script registered
+1539262900902	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262901036	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.lastampa.it/modulo/masterJS/masterjs-B.jsp?id=15, line 2552: unreachable code after return statement
+1539262904240	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.lastampa.it/
+1539262904637	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539262904678	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.lastampa.it/
+1539262905297	Marionette	INFO	Stopped listening on port 60174
+[Parent 19048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37728, Chrome_Ch[Parent 19048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35604, Chro1539262906245	geckodriver	INFO	geckodriver 0.21.0
+1539262906255	geckodriver	INFO	Listening on 127.0.0.1:60272
+1539262909268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.Du5cL7BsO4xl"
+*** You are running in headless mode.
+1539262910917	Marionette	INFO	Listening on port 60300
+1539262911379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262911405	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262911406	Marionette	DEBUG	[6442450945] Frame script registered
+1539262911416	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262911952	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262912920	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.ilsole24ore.com/
+1539262914370	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539262914675	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539262914675	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539262914675	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539262914676	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539262914677	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539262916667	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.ilsole24ore.com/
+1539262917283	Marionette	INFO	Stopped listening on port 60300
+[Child 45976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45976,
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 42976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 42976, Chrome_ChildThread] WARNIN[Child 43084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43084, Chrom1539262918277	geckodriver	INFO	geckodriver 0.21.0
+1539262918284	geckodriver	INFO	Listening on 127.0.0.1:60478
+1539262921292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.so2wRlk0GA42"
+*** You are running in headless mode.
+1539262923206	Marionette	INFO	Listening on port 60489
+1539262923416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262923443	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262923445	Marionette	DEBUG	[6442450945] Frame script registered
+1539262923457	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262923817	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262925010	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://elpais.com/
+1539262926228	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539262926228	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539262926232	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539262926232	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539262926634	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539262926643	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539262926726	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539262926726	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539262926794	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://elpais.com/
+1539262927161	Marionette	INFO	Stopped listening on port 60489
+[Child 44344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44344,[Child 45556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45556, Chrome_Ch[Parent 44168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7840, Chrome1539262928064	geckodriver	INFO	geckodriver 0.21.0
+1539262928074	geckodriver	INFO	Listening on 127.0.0.1:60586
+1539262931093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.aXEEkXhdlBzt"
+*** You are running in headless mode.
+1539262932955	Marionette	INFO	Listening on port 60596
+1539262933216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262933238	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262933240	Marionette	DEBUG	[6442450945] Frame script registered
+1539262933266	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262933541	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262934108	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.elmundo.es/
+1539262936004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.elmundo.es/
+1539262936463	Marionette	INFO	Stopped listening on port 60596
+[Parent 12572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 37728, Chrome_[Child 16028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16028, Chro1539262946507	geckodriver	INFO	geckodriver 0.21.0
+1539262946514	geckodriver	INFO	Listening on 127.0.0.1:60674
+1539262949515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.mxaxeXWPmrny"
+*** You are running in headless mode.
+1539262951382	Marionette	INFO	Listening on port 60683
+1539262951627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262951678	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262951682	Marionette	DEBUG	[6442450945] Frame script registered
+1539262951704	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262952123	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262953220	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.abc.es/
+1539262955986	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539262956125	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539262956347	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.abc.es/
+1539262956782	Marionette	INFO	Stopped listening on port 60683
+[Parent 44680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44804, Chrome_ChildThr[Child 14680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14680, Chrome_ChildThread] WA[Parent 44680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24732, Chrome_Child1539262958498	geckodriver	INFO	geckodriver 0.21.0
+1539262958511	geckodriver	INFO	Listening on 127.0.0.1:60886
+1539262961499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.ygaRaCfqRBCc"
+*** You are running in headless mode.
+1539262963964	Marionette	INFO	Listening on port 60941
+1539262964225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262964253	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262964254	Marionette	DEBUG	[6442450945] Frame script registered
+1539262964266	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262965126	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262967474	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.wsj.com/europe
+1539262969721	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+JavaScript error: https://tru.am/scripts/custom/wsj.js, line 31: ReferenceError: types is not defined
+1539262970741	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071306083, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-1071306083, line 74: unreachable code after return statement
+1539262971738	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451010
+1539262972312	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451013
+1539262972932	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451025
+1539262973168	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+1539262973176	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451041
+1539262973398	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1539262973778	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.wsj.com/europe
+1539262974564	Marionette	INFO	Stopped listening on port 60941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+il
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d 4
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+5572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 45572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rc/chrome/common/ipc_channel_win.cc, line[Parent 42060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22960, Chrome1539262975812	geckodriver	INFO	geckodriver 0.21.0
+1539262975818	geckodriver	INFO	Listening on 127.0.0.1:61323
+1539262978805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.vmN56PbRjVEN"
+*** You are running in headless mode.
+1539262980506	Marionette	INFO	Listening on port 61333
+1539262980916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262980944	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262980946	Marionette	DEBUG	[6442450945] Frame script registered
+1539262980972	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262981338	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262981511	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.washingtonpost.com/gdpr-consent/?destination=%2f%3f
+1539262982164	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.washingtonpost.com/gdpr-consent/?destination=%2f%3f&utm_term=.94cd26edab48
+1539262982215	Marionette	INFO	Stopped listening on port 61333
+[Parent 42888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8388, Chrome_[Child 40604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40604, C1539262982904	geckodriver	INFO	geckodriver 0.21.0
+1539262982910	geckodriver	INFO	Listening on 127.0.0.1:61365
+1539262985909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.B3hDMOqfJR2I"
+*** You are running in headless mode.
+1539262987472	Marionette	INFO	Listening on port 61373
+1539262987550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262987581	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262987582	Marionette	DEBUG	[6442450945] Frame script registered
+1539262987618	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262987893	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539262988512	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.nytimes.com/
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1539262992963	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.nytimes.com/
+1539262993300	Marionette	INFO	Stopped listening on port 61373
+[Child 45712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45712, Ch[Parent 41728, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 41728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44492, Chrom[Parent 41728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 40572, Chrom1539262994157	geckodriver	INFO	geckodriver 0.21.0
+1539262994164	geckodriver	INFO	Listening on 127.0.0.1:61457
+1539262997159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.UsAS1972ebGR"
+*** You are running in headless mode.
+1539262999004	Marionette	INFO	Listening on port 61465
+1539262999271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539262999304	Marionette	DEBUG	[6442450945] Frame script loaded
+1539262999306	Marionette	DEBUG	[6442450945] Frame script registered
+1539262999329	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539262999794	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263000538	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://pythontips.com/tag/python-patreon/
+1539263001166	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://pythontips.com/tag/python-patreon/
+1539263001201	Marionette	INFO	Stopped listening on port 61465
+[Child 31724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 34184, Chrome1539263002009	geckodriver	INFO	geckodriver 0.21.0
+1539263002021	geckodriver	INFO	Listening on 127.0.0.1:61536
+1539263005033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.3mL1rcCwepMv"
+*** You are running in headless mode.
+1539263006673	Marionette	INFO	Listening on port 61551
+1539263007155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263007176	Marionette	DEBUG	[6442450945] Frame script loaded
+1539263007177	Marionette	DEBUG	[6442450945] Frame script registered
+1539263007200	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539263007565	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263008193	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.speedtest.net/
+1539263009236	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.speedtest.net/
+1539263009313	Marionette	INFO	Stopped listening on port 61551
+[Parent 41372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35936, Chrome_Ch1539263010135	geckodriver	INFO	geckodriver 0.21.0
+1539263010141	geckodriver	INFO	Listening on 127.0.0.1:61641
+1539263013141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.pwEjlWsRfKPb"
+*** You are running in headless mode.
+1539263014942	Marionette	INFO	Listening on port 61650
+1539263015253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263015283	Marionette	DEBUG	[6442450945] Frame script loaded
+1539263015285	Marionette	DEBUG	[6442450945] Frame script registered
+1539263015304	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539263015508	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263015777	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.independent.co.uk/?CMP=ILC-refresh
+JavaScript error: https://cdn.ampproject.org/rtv/011810052220151/v0.js, line 7: Error: Element "#askTheEditor" not found: null
+1539263017445	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+JavaScript error: https://fo-static.omnitagjs.com/ot_multi_template.js line 1 > eval, line 1: TypeError: yap_script is null
+1539263018868	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.independent.co.uk/?CMP=ILC-refresh
+1539263019269	Marionette	INFO	Stopped listening on port 61650
+[Child 22224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22224, Chrome_Chi[1539263249142	geckodriver	INFO	geckodriver 0.21.0
+1539263249149	geckodriver	INFO	Listening on 127.0.0.1:63127
+1539263252156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.wlU8AmOGZJZv"
+*** You are running in headless mode.
+1539263254285	Marionette	INFO	Listening on port 63135
+1539263254443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263254470	Marionette	DEBUG	[6442450945] Frame script loaded
+1539263254473	Marionette	DEBUG	[6442450945] Frame script registered
+1539263254516	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539263254993	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263255506	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539263256658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539263256659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1539263256659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539263256659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539263256659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1539263257166	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539263257167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539263257167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1539263257179	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1539263257179	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1539263257180	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1539263257562	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451044
+1539263257789	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1539263257854	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451057
+1539263258128	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1539263258148	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1539263258656	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451078
+1539263259415	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1539263259690	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539263288596	Marionette	INFO	Stopped listening on port 63135
+[Child 40504, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 35816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35816, Chrome_ChildT[Child 43276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43276, Chrome1539263642866	geckodriver	INFO	geckodriver 0.21.0
+1539263642872	geckodriver	INFO	Listening on 127.0.0.1:49959
+1539263645877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.lcWG8Y5pNEPD"
+*** You are running in headless mode.
+1539263647646	Marionette	INFO	Listening on port 49998
+1539263647995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263648020	Marionette	DEBUG	[6442450945] Frame script loaded
+1539263648021	Marionette	DEBUG	[6442450945] Frame script registered
+1539263648040	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539263648403	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263649154	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539263649784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539263649784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539263649784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539263649784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539263649784	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539263649785	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539263650210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539263650210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539263650212	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539263650212	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539263650213	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539263651078	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+1539263651326	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451039
+1539263651349	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1539263651353	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451052
+1539263651356	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1539263651891	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451064
+1539263652283	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539263652683	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539263960968	geckodriver	INFO	geckodriver 0.21.0
+1539263960983	geckodriver	INFO	Listening on 127.0.0.1:50838
+1539263963987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.pHcGUwN5c25L"
+*** You are running in headless mode.
+1539263965704	Marionette	INFO	Listening on port 50862
+1539263966104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539263966133	Marionette	DEBUG	[6442450945] Frame script loaded
+1539263966134	Marionette	DEBUG	[6442450945] Frame script registered
+1539263966160	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539263966584	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539263966940	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539263969158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539263969158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539263969158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539263969158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539263969159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539263969341	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539264016244	Marionette	INFO	Stopped listening on port 50862
+[Parent 44320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 35632, Chrome_ChildThread] WARNI
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NG: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35632, Chrome_Child[Child 6820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 68201539264050707	geckodriver	INFO	geckodriver 0.21.0
+1539264050713	geckodriver	INFO	Listening on 127.0.0.1:51395
+1539264053711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.UjxuVdyFYx2L"
+*** You are running in headless mode.
+1539264055366	Marionette	INFO	Listening on port 51406
+1539264055825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539264055852	Marionette	DEBUG	[6442450945] Frame script loaded
+1539264055853	Marionette	DEBUG	[6442450945] Frame script registered
+1539264055863	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539264056288	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539264057057	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539264057694	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539264057695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539264057695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539264057695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539264057695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539264057695	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539264058241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539264058241	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539264058243	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539264058243	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539264058243	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1539264059180	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1539264059290	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451048
+1539264059292	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451050
+1539264059298	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451052
+1539264059313	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1539264059684	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451057
+1539264060395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539264060798	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539264111815	geckodriver	INFO	geckodriver 0.21.0
+1539264111824	geckodriver	INFO	Listening on 127.0.0.1:51651
+1539264114846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.y2cYnQknLoCj"
+*** You are running in headless mode.
+1539264116617	Marionette	INFO	Listening on port 51659
+1539264116963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539264116987	Marionette	DEBUG	[6442450945] Frame script loaded
+1539264116988	Marionette	DEBUG	[6442450945] Frame script registered
+1539264117005	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539264117354	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539264117806	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539264119084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1539264119084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539264119084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539264119084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539264119084	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1539264119085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1539264119581	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1539264119581	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451000
+1539264119583	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451005
+1539264119583	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451006
+1539264119583	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451007
+1539264120360	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1539264120483	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451052
+1539264120485	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+1539264120519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451058
+1539264120521	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451060
+1539264120887	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1539264121155	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451002
+1539264121458	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539328928040	geckodriver	INFO	geckodriver 0.21.0
+1539328928047	geckodriver	INFO	Listening on 127.0.0.1:59696
+1539328931146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.QuFU2uDajTZR"
+*** You are running in headless mode.
+1539328932257	Marionette	INFO	Listening on port 59704
+1539328932757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539328932776	Marionette	DEBUG	[6442450945] Frame script loaded
+1539328932777	Marionette	DEBUG	[6442450945] Frame script registered
+1539328932787	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539328933063	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539328933596	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+[Parent 9396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539328934037	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539328934038	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539328934425	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539328934425	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539328934427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539328934427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539328934427	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539328935393	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451042
+1539328935400	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451052
+1539328935406	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451062
+1539328935410	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451064
+1539328935412	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451066
+1539328935414	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1539328935764	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451078
+1539328936387	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539328936877	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539328952937	Marionette	INFO	Stopped listening on port 59704
+[Child 10124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10124, Chrome_Chi[Child 3736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3736, Chrome_ChildThread] WARNING:[Parent 9396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539329808515	geckodriver	INFO	geckodriver 0.21.0
+1539329808520	geckodriver	INFO	Listening on 127.0.0.1:51241
+1539329811816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.1wZf9Id3Qohh"
+*** You are running in headless mode.
+1539329813157	Marionette	INFO	Listening on port 51265
+1539329813432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539329813450	Marionette	DEBUG	[6442450945] Frame script loaded
+1539329813452	Marionette	DEBUG	[6442450945] Frame script registered
+1539329813461	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539329813803	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539329814114	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539329814658	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539329814659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539329814659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539329814659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539329814659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539329814659	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+[Parent 4176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539329815135	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539329815135	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539329815136	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539329815136	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450977
+1539329815136	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539329815827	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+1539329816081	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451049
+1539329816087	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451051
+1539329816095	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451061
+1539329816173	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451071
+1539329816406	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451074
+1539329817064	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539329817237	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539329832182	Marionette	INFO	Stopped listening on port 51265
+[Parent 4176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 12984, Chrome_ChildThread[Parent 4176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3284, Chrome_ChildThre1539339303954	geckodriver	INFO	geckodriver 0.21.0
+1539339303960	geckodriver	INFO	Listening on 127.0.0.1:56479
+1539339307056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.dc6c7gp4Ihuq"
+*** You are running in headless mode.
+1539339308359	Marionette	INFO	Listening on port 56487
+1539339308669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539339308687	Marionette	DEBUG	[6442450945] Frame script loaded
+1539339308698	Marionette	DEBUG	[6442450945] Frame script registered
+1539339308720	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539339308984	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539339309286	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+[Parent 11512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450990
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450991
+1539339311420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1539339311421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1539339311421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450994
+1539339311421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1539339311421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450996
+1539339311421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450997
+1539339311743	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539339328907	Marionette	INFO	Stopped listening on port 56487
+[Child 4360, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4360, Chrome_ChildThread] WARNING:[Parent 11512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7372, Chrome_ChildThread] WARNING: 1539343492223	geckodriver	INFO	geckodriver 0.21.0
+1539343492230	geckodriver	INFO	Listening on 127.0.0.1:52997
+1539343495302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.L1kk5HKjS0am"
+*** You are running in headless mode.
+1539343496550	Marionette	INFO	Listening on port 53048
+1539343496914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539343496933	Marionette	DEBUG	[6442450945] Frame script loaded
+1539343496935	Marionette	DEBUG	[6442450945] Frame script registered
+1539343496948	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539343497318	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539343497905	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539343498234	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539343498235	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539343498236	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539343498749	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539343498749	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539343498751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539343498751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539343498751	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539343499730	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1539343499754	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451055
+1539343499861	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1539343499947	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451067
+1539343499952	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451077
+1539343500167	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451080
+1539343501244	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539343520216	Marionette	INFO	Stopped listening on port 53048
+[Child 15916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15916, Chr[Parent 4512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: [Parent 4512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539344544664	geckodriver	INFO	geckodriver 0.21.0
+1539344544669	geckodriver	INFO	Listening on 127.0.0.1:52207
+1539344547760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.zMbweiK5PCp7"
+*** You are running in headless mode.
+1539344548872	Marionette	INFO	Listening on port 52216
+1539344549372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539344549391	Marionette	DEBUG	[6442450945] Frame script loaded
+1539344549392	Marionette	DEBUG	[6442450945] Frame script registered
+1539344549407	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539344549637	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539344549923	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+[Parent 16036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539344550884	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450979
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450983
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450986
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539344550885	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450989
+1539344551457	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1539344551458	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450993
+1539344551460	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1539344551460	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450999
+1539344551460	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451000
+1539344551900	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451050
+1539344552138	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451053
+1539344552303	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1539344552312	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451065
+1539344552323	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451075
+1539344552327	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451085
+1539344552626	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451087
+1539344553441	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450995
+1539344553839	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.thetimes.co.uk/
+1539344585650	Marionette	INFO	Stopped listening on port 52216
+[Child 5528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5528,[Parent 16036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17428, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 17428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Child 8864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1539345378376	geckodriver	INFO	geckodriver 0.21.0
+1539345378388	geckodriver	INFO	Listening on 127.0.0.1:62415
+1539345381560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.qG76BYzvGBzs"
+*** You are running in headless mode.
+1539345384982	Marionette	INFO	Listening on port 62595
+1539345385514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539345385548	Marionette	DEBUG	[6442450945] Frame script loaded
+1539345385550	Marionette	DEBUG	[6442450945] Frame script registered
+1539345385580	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539345386021	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539345386840	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.thetimes.co.uk/
+1539345389222	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539345389222	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539345389224	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539345389224	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539345389224	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539345389225	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539345391033	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539345391033	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450975
+1539345391043	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539345391043	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450981
+1539345391043	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539345392351	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451039
+1539345392384	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451041
+1539345392392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451043
+1539345392645	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451045
+1539345392647	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451047
+[539345392797	geckodriver	INFO	geckodriver 0.21.0
+1539345392809	geckodriver	INFO	Listening on 127.0.0.1:63199
+1539345395918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.zvLnAodZDsyE"
+*** You are running in headless mode.
+1539345399272	Marionette	INFO	Listening on port 63412
+1539345399577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539345399606	Marionette	DEBUG	[6442450945] Frame script loaded
+1539345399607	Marionette	DEBUG	[6442450945] Frame script registered
+1539345399620	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539345400482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539345402469	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.telegraph.co.uk/
+1539345402902	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539345406157	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539345406158	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539345406554	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539345406753	geckodriver	INFO	geckodriver 0.21.0
+1539345406764	geckodriver	INFO	Listening on 127.0.0.1:64011
+1539345409820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.xJGxj5ReVtBt"
+*** You are running in headless mode.
+1539345414742	Marionette	INFO	Listening on port 64158
+1539345414959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539345416135	Marionette	DEBUG	[6442450945] Frame script loaded
+1539345416136	Marionette	DEBUG	[6442450945] Frame script registered
+1539345416174	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539345416711	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539345417123	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.theguardian.com/international
+JavaScript error: https://assets.guim.co.uk/javascripts/a14408abb0a3bb9750fe/graun.commercial.js, line 1: Error: No LOTCC in window
+1539345420558	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+JavaScript error: https://unibet-unibet.bannerflow.com/resources/custom-resource-2e5a4315-670b-4a45-a7b3-97f395445a5c.html?cb=636687201497691720, line 61: NotFoundError: Node was not found
+JavaScript error: https://unibet-unibet.bannerflow.com/resources/custom-resource-2e5a4315-670b-4a45-a7b3-97f395445a5c.html?cb=636687201497691720, line 61: NotFoundError: Node was not found
+JavaScript error: https://static.adsafeprotected.com/main.17.4.146.js, line 105: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.adsafeprotected.com/main.17.4.146.js, line 105: NS_ERROR_NOT_INITIALIZED: 
+9345431533	Marionette	DEBUG	[6442450945] Frame script registered
+1539345431555	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539345432051	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539345434588	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.lesechos.fr/
+JavaScript error: https://www.lesechos.fr/, line 63: TypeError: top.ONFOCUS is undefined
+1539345435336	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1539345435345	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539345435365	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1539345435365	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1539345438456	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451011
+JavaScript error: https://static.mediarithmics.com/tag/1/tag.min.js, line 2: TypeError: this.triggerCallsIfPossible is not a function
+JavaScript error: https://fogl1onf.com/1031/b.js, line 1: TypeError: a.ONFOCUS is undefined
+JavaScript error: https://www.lesechos.fr/, line 63: TypeError: top.ONFOCUS is undefined
+JavaScript error: https://fogl1onf.com/1031/b.js, line 1: TypeError: a.ONFOCUS is undefined
+JavaScript error: https://www.lesechos.fr/, line 63: TypeError: top.ONFOCUS is undefined
+JavaScript error: https://fogl1onf.com/1031/b.js, line 1: TypeError: a.ONFOCUS is undefined
+JavaScript error: https://cdn.audiencesquare.com/prebid/asq_tag.js, line 355: TypeError: iframe.contentWindow is null
+JavaScript error: https://fogl1onf.com/1031/b.js, line 1: SecurityError: Permission denied to access property "ONFOCUS" on cross-origin object
+vent beforeunload for about:blank
+1539345447067	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539345448801	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.la-croix.com/
+1539345452091	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.la-croix.com/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-972532676, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-972532676, line 74: unreachable code after return statement
+1539345507402	Marionette	INFO	Stopped listening on port 49254
+[Parent 21372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20924, Chrome_ChildThread] WARNING:[Parent 21372, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188

@@ -1,0 +1,202 @@
+2018-09-17 15:46:07,647:seleniumContinusCrawler.SeleniumContinusCrawler:Page number: 1
+2018-09-17 15:46:12,315:seleniumContinusCrawler.SeleniumContinusCrawler:Link where the add images are extracted: https://www.thetimes.co.uk/
+2018-09-17 15:46:12,712:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe src="javascript:void(0)" style="width: 0px; height: 0px; border: 0px none; display: none;" title=""></iframe>
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0 h:250 w:970
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4 h:90 w:970
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6 h:90 w:970
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,713:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="1" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom; height: 1px; width: 1px;" title="3rd party ad content" width="1"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7 h:1 w:1
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="1" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="1"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1 h:1 w:1
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="250b4893a409c5e" marginheight="0" marginwidth="0" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="border: 0px none; display: none;" width="0"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:250b4893a409c5e h:0 w:0
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="onetrustIabCookie" src="https://cookies.onetrust.mgr.consensu.org/?name=euconsent&amp;value=BAAAAAAOUPFSqAcABBENBk-AAAAhF5_PXbnCJ4Th1P51NkQjACqACIACwAQAAsIAAEICAAgBCIEAQBIAgQAAAIZAQABwRAhAGgARQCiCsG-VOg99pN3ogA&amp;expire=30" style="display: none;"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:onetrustIabCookie h:None w:None
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_80586-1537188369052" src="//us.tags.newscgp.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_80586-1537188369052 h:0 w:0
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="kruxLotame" src="https://sync.crwdcntrl.net/map/c=12451/tp=NWIQ?https://beacon.krxd.net/usermatch.gif?partner=lotame&amp;partner_uid=${profile_id}" width="0"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:kruxLotame h:0 w:0
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_92687-1537188369624" src="//www.ncaudienceexchange.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_92687-1537188369624 h:0 w:0
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,714:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_76829-1537188369624" src="//tags.realtor.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_76829-1537188369624 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_78067-1537188369626" src="//tags.barrons.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_78067-1537188369626 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_87581-1537188369626" src="//tags.mansionglobal.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_87581-1537188369626 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_34839-1537188369627" src="//tags.marketwatch.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_34839-1537188369627 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_91931-1537188369627" src="//tags.wsj.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_91931-1537188369627 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_67617-1537188369627" src="//tags.nypost.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_67617-1537188369627 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_30743-1537188369627" src="//tags.decider.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_30743-1537188369627 h:0 w:0
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_44687-1537188369628" src="//tags.pagesix.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-17 15:46:12,715:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_44687-1537188369628 h:0 w:0
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="google_osd_static_frame_2432414679672" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_osd_static_frame_2432414679672 h:None w:None
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-mv-pmp-request="e5bdc703-07e7-4948-83c2-573fd7a40c69" style="display: none;"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_401_iframe" src="//4964201.fls.doubleclick.net/activityi;src=4964201;type=mainp0;cat=allpa0;ord=2669200199145.394?" style="display:none" width="1"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_401_iframe h:1 w:1
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_402_iframe" src="//4964201.fls.doubleclick.net/activityi;src=4964201;type=mainp0;cat=allti0;ord=4575751301983.952?" style="display:none" width="1"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_402_iframe h:1 w:1
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_442_iframe" src="//3060438.fls.doubleclick.net/activityi;src=3060438;type=homep0;cat=times0;ord=1087023307921.3564?" style="display:none" width="1"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_442_iframe h:1 w:1
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_457_iframe" src="//8388721.fls.doubleclick.net/activityi;src=8388721;type=allti0;cat=allpa0;u12=homepage;u15=https%3A%2F%2Fwww.thetimes.co.uk%2F;ord=2819937881706.6436?" style="display:none" width="1"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_457_iframe h:1 w:1
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_458_iframe" src="//8388721.fls.doubleclick.net/activityi;src=8388721;type=allti0;cat=times0;ord=4255072693212.758?" style="display:none" width="1"></iframe>
+2018-09-17 15:46:12,716:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_458_iframe h:1 w:1
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:Size of list : 3 
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:Google list:
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-17 15:46:12,717:seleniumContinusCrawler.SeleniumContinusCrawler:
+2018-09-17 15:46:12,726:genericContinus.GenericPage:element width: 970
+2018-09-17 15:46:12,727:genericContinus.GenericPage:element height: 250
+2018-09-17 15:46:12,749:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0 
+2018-09-17 15:46:12,792:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:12,793:helperContinus.HelperClass:{'height': 250.0, 'width': 970.0}
+2018-09-17 15:46:12,943:helperContinus.HelperClass:C:\Users\User\Desktop\add\64bc67ca556bce4a79b14422a6bb034d25375cd7.png
+2018-09-17 15:46:12,944:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0
+2018-09-17 15:46:12,948:genericContinus.GenericPage:element width: 970
+2018-09-17 15:46:12,948:genericContinus.GenericPage:element height: 90
+2018-09-17 15:46:12,964:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4 
+2018-09-17 15:46:12,973:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:12,973:helperContinus.HelperClass:{'height': 90.0, 'width': 970.0}
+2018-09-17 15:46:13,016:helperContinus.HelperClass:C:\Users\User\Desktop\add\80925fbbd99d73b2adf0a75bdc5118e5592e5f2a.png
+2018-09-17 15:46:13,016:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4
+2018-09-17 15:46:13,030:genericContinus.GenericPage:element width: 970
+2018-09-17 15:46:13,030:genericContinus.GenericPage:element height: 90
+2018-09-17 15:46:13,044:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6 
+2018-09-17 15:46:13,048:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:13,048:helperContinus.HelperClass:{'height': 90.0, 'width': 970.0}
+2018-09-17 15:46:13,075:helperContinus.HelperClass:C:\Users\User\Desktop\add\0da76cd3e90ec08d22b0596d89469da6ffe806ff.png
+2018-09-17 15:46:13,076:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6
+2018-09-17 15:46:13,076:helperContinus.HelperClass:C:\Users\User\Desktop\add
+2018-09-17 15:46:13,080:helperContinus.HelperClass:560
+2018-09-17 15:46:13,140:helperContinus.HelperClass:559
+2018-09-17 15:46:27,991:helperContinus.HelperClass: Number of duplicates 3
+2018-09-17 15:46:33,486:seleniumContinusCrawler.SeleniumContinusCrawler:Page number: 2
+2018-09-17 15:46:40,173:seleniumContinusCrawler.SeleniumContinusCrawler:Link where the add images are extracted: https://www.telegraph.co.uk/
+2018-09-17 15:46:40,396:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,396:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="2725634d097c31b8" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,396:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:2725634d097c31b8 h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="26f77c7e84b2c018" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:26f77c7e84b2c018 h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="259e692e67cbf238" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="//u.openx.net/w/1.0/pd" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:259e692e67cbf238 h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="2420f45d110e966" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://eu-u.openx.net/w/1.0/pd?plm=6&amp;ph=b0b346b0-01c1-4633-b9dd-b1d9a717b5cc&amp;gdpr=1" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:2420f45d110e966 h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="23b0a7cca1b357b" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:23b0a7cca1b357b h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowtransparency="true" frameborder="0" height="0" hspace="0" id="227cea9e6db7afa" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="height:0px;width:0px;display:none;" vspace="0" width="0">
+</iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:227cea9e6db7afa h:0 w:0
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" id="tynt-gpt-iframe-1" style="position: absolute; visibility: hidden; width: 1px; height: 1px;"></iframe>
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:tynt-gpt-iframe-1 h:None w:None
+2018-09-17 15:46:40,397:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_0" marginheight="0" marginwidth="0" name="" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="728"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_0 h:90 w:728
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="1" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_1" marginheight="0" marginwidth="0" name="google_ads_iframe_/6582/tmg.telegraph.portal/portal_1" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="1"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_1 h:1 w:1
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="600" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_2" marginheight="0" marginwidth="0" name="" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="300"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_2 h:600 w:300
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="600" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_3" marginheight="0" marginwidth="0" name="google_ads_iframe_/6582/tmg.telegraph.portal/portal_3" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="160"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_3 h:600 w:160
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="1" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_4" marginheight="0" marginwidth="0" name="google_ads_iframe_/6582/tmg.telegraph.portal/portal_4" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="1"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_4 h:1 w:1
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="1" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_5" marginheight="0" marginwidth="0" name="google_ads_iframe_/6582/tmg.telegraph.portal/portal_5" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="1"></iframe>
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/6582/tmg.telegraph.portal/portal_5 h:1 w:1
+2018-09-17 15:46:40,398:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe name="__cmpLocator" style="display: none;"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe class="aamIframeLoaded" id="destination_publishing_iframe_tmg_0" name="destination_publishing_iframe_tmg_0_name" sandbox="allow-scripts allow-same-origin" src="https://tmg.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.telegraph.co.uk%2F" style="display: none; width: 0px; height: 0px;" title="Adobe ID Syncing iFrame"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:destination_publishing_iframe_tmg_0 h:None w:None
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="google_osd_static_frame_6738697606408" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_osd_static_frame_6738697606408 h:None w:None
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="LOTCCFrameMon Sep 17 2018 15:46:40 GMT+0300 (GTB Daylight Time)" role="presentation" src="https://bcp.crwdcntrl.net/5/c=12639/rand=168133784/pv=y/cmp=1/cmpto=250/int=%23OpR%2384735%23Site%20%3A%20www.telegraph.co.uk/int=%23OpR%2384884%23www.telegraph.co.uk%20%3A%20Total%20Site%20Traffic/rt=ifr" style="border: 0px none; width: 0px; height: 0px; display: block;" tabindex="-1" title="empty"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:LOTCCFrameMon Sep 17 2018 15:46:40 GMT+0300 (GTB Daylight Time) h:None w:None
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="0" src="//dis.eu.criteo.com/dis/dis.aspx?p=34462&amp;cb=71716710898&amp;ref=&amp;sc_r=1366x768&amp;sc_d=24" style="display: none;" width="0"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:0 w:0
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Size of list : 3 
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:Google list:
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_0" marginheight="0" marginwidth="0" name="" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="728"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="600" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_2" marginheight="0" marginwidth="0" name="" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="300"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="600" id="google_ads_iframe_/6582/tmg.telegraph.portal/portal_3" marginheight="0" marginwidth="0" name="google_ads_iframe_/6582/tmg.telegraph.portal/portal_3" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="160"></iframe>
+2018-09-17 15:46:40,399:seleniumContinusCrawler.SeleniumContinusCrawler:
+2018-09-17 15:46:40,403:genericContinus.GenericPage:element width: 728
+2018-09-17 15:46:40,403:genericContinus.GenericPage:element height: 90
+2018-09-17 15:46:40,424:genericContinus.GenericPage:Before screenshot google_ads_iframe_/6582/tmg.telegraph.portal/portal_0 
+2018-09-17 15:46:40,430:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:40,430:helperContinus.HelperClass:{'height': 0.0, 'width': 0.0}
+2018-09-17 15:46:40,430:genericContinus.GenericPage:screenshot taken google_ads_iframe_/6582/tmg.telegraph.portal/portal_0
+2018-09-17 15:46:40,432:genericContinus.GenericPage:element width: 300
+2018-09-17 15:46:40,432:genericContinus.GenericPage:element height: 600
+2018-09-17 15:46:40,447:genericContinus.GenericPage:Before screenshot google_ads_iframe_/6582/tmg.telegraph.portal/portal_2 
+2018-09-17 15:46:40,451:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:40,451:helperContinus.HelperClass:{'height': 525.5, 'width': 300.0}
+2018-09-17 15:46:40,498:helperContinus.HelperClass:C:\Users\User\Desktop\add\6c446928230e506d7724ac49b1d17388e50426f6.png
+2018-09-17 15:46:40,498:genericContinus.GenericPage:screenshot taken google_ads_iframe_/6582/tmg.telegraph.portal/portal_2
+2018-09-17 15:46:40,501:genericContinus.GenericPage:element width: 160
+2018-09-17 15:46:40,501:genericContinus.GenericPage:element height: 600
+2018-09-17 15:46:40,516:genericContinus.GenericPage:Before screenshot google_ads_iframe_/6582/tmg.telegraph.portal/portal_3 
+2018-09-17 15:46:40,520:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-17 15:46:40,520:helperContinus.HelperClass:{'height': 600.0, 'width': 160.0}
+2018-09-17 15:46:40,720:genericContinus.GenericPage:exception in the process google_ads_iframe_/6582/tmg.telegraph.portal/portal_3
+2018-09-17 15:46:40,720:genericContinus.GenericPage:exception details: cannot identify image file <_io.BytesIO object at 0x0000019C7A0AF3B8>
+2018-09-17 15:46:40,720:helperContinus.HelperClass:C:\Users\User\Desktop\add
+2018-09-17 15:46:40,721:helperContinus.HelperClass:558
+2018-09-17 15:46:40,736:helperContinus.HelperClass:557

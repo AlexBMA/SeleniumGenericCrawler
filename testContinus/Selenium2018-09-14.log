@@ -1,0 +1,130 @@
+2018-09-14 10:02:04,133:seleniumContinusCrawler.SeleniumContinusCrawler:Page number: 1
+2018-09-14 10:02:08,268:seleniumContinusCrawler.SeleniumContinusCrawler:Link where the add images are extracted: https://www.thetimes.co.uk/
+2018-09-14 10:02:08,786:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,786:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe src="javascript:void(0)" style="width: 0px; height: 0px; border: 0px none; display: none;" title=""></iframe>
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" marginheight="0" marginwidth="0" name="" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0 h:250 w:970
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4 h:90 w:970
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowfullscreen="" src="https://imasdk.googleapis.com/js/core/bridge3.235.4_en.html#goog_421599527" style="border: 0px none; opacity: 0; margin: 0px; padding: 0px; position: relative;"></iframe>
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe class="vjs-resize-manager"></iframe>
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,787:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowfullscreen="" src="https://imasdk.googleapis.com/js/core/bridge3.235.4_en.html#goog_1792803940" style="border: 0px none; opacity: 0; margin: 0px; padding: 0px; position: relative;"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe class="vjs-resize-manager"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe allowfullscreen="" src="https://imasdk.googleapis.com/js/core/bridge3.235.4_en.html#goog_712265337" style="border: 0px none; opacity: 0; margin: 0px; padding: 0px; position: relative;"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe class="vjs-resize-manager"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6 h:90 w:970
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="1" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom; height: 1px; width: 1px;" title="3rd party ad content" width="1"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_7 h:1 w:1
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="1" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="1"></iframe>
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_ads_iframe_/3048/d.thetimes.co.uk/homepage_1 h:1 w:1
+2018-09-14 10:02:08,788:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="2580cacdcf202128" marginheight="0" marginwidth="0" scrolling="no" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="border: 0px none; display: none;" width="0"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:2580cacdcf202128 h:0 w:0
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="onetrustIabCookie" src="https://cookies.onetrust.mgr.consensu.org/?name=euconsent&amp;value=BAAAAAAOUEaFEAcABBENBk-AAAAhF5_PXbnCJ4Th1P51NkQjACqACIACwAQAAsIAAEICAAgBCIEAQBIAgQAAAIZAQABwRAhAGgARQCiCsG-VOg99pN3ogA&amp;expire=30" style="display: none;"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:onetrustIabCookie h:None w:None
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_93542-1536908525248" src="//us.tags.newscgp.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_93542-1536908525248 h:0 w:0
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="kruxLotame" src="https://sync.crwdcntrl.net/map/c=12451/tp=NWIQ?https://beacon.krxd.net/usermatch.gif?partner=lotame&amp;partner_uid=${profile_id}" width="0"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:kruxLotame h:0 w:0
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_6219-1536908525305" src="//www.ncaudienceexchange.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_6219-1536908525305 h:0 w:0
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_54807-1536908525305" src="//tags.realtor.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_54807-1536908525305 h:0 w:0
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,789:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_34550-1536908525306" src="//tags.barrons.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_34550-1536908525306 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_71041-1536908525307" src="//tags.mansionglobal.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_71041-1536908525307 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_72488-1536908525308" src="//tags.marketwatch.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_72488-1536908525308 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_89684-1536908525308" src="//tags.wsj.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_89684-1536908525308 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_61838-1536908525309" src="//tags.nypost.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_61838-1536908525309 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_85676-1536908525310" src="//tags.decider.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_85676-1536908525310 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe frameborder="0" height="0" id="ncg_cookie_24025-1536908525310" src="//tags.pagesix.com/prod/ncg/cookie.html" width="0"></iframe>
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:ncg_cookie_24025-1536908525310 h:0 w:0
+2018-09-14 10:02:08,790:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe id="google_osd_static_frame_274024801959" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:google_osd_static_frame_274024801959 h:None w:None
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-mv-pmp-request="8bb38870-65cc-4bb0-ac6d-5ccd17dbefa7" style="display: none;"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:None h:None w:None
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_401_iframe" src="//4964201.fls.doubleclick.net/activityi;src=4964201;type=mainp0;cat=allpa0;ord=3034467056047.1123?" style="display:none" width="1"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_401_iframe h:1 w:1
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_402_iframe" src="//4964201.fls.doubleclick.net/activityi;src=4964201;type=mainp0;cat=allti0;ord=6858218434387.552?" style="display:none" width="1"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_402_iframe h:1 w:1
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_442_iframe" src="//3060438.fls.doubleclick.net/activityi;src=3060438;type=homep0;cat=times0;ord=9056766400588.73?" style="display:none" width="1"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_442_iframe h:1 w:1
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_457_iframe" src="//8388721.fls.doubleclick.net/activityi;src=8388721;type=allti0;cat=allpa0;u12=homepage;u15=https%3A%2F%2Fwww.thetimes.co.uk%2F;ord=8141134188580.248?" style="display:none" width="1"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_457_iframe h:1 w:1
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler: 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe height="1" id="utag_458_iframe" src="//8388721.fls.doubleclick.net/activityi;src=8388721;type=allti0;cat=times0;ord=6057778900504.296?" style="display:none" width="1"></iframe>
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Element name:iframe id:utag_458_iframe h:1 w:1
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Size of list : 3 
+2018-09-14 10:02:08,791:seleniumContinusCrawler.SeleniumContinusCrawler:Google list:
+2018-09-14 10:02:08,792:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-is-safeframe="true" data-load-complete="true" frameborder="0" height="250" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0" marginheight="0" marginwidth="0" name="" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" scrolling="no" src="https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,792:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,792:seleniumContinusCrawler.SeleniumContinusCrawler:<iframe data-load-complete="true" frameborder="0" height="90" id="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" marginheight="0" marginwidth="0" name="google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6" scrolling="no" srcdoc="" style="border: 0px none; vertical-align: bottom;" title="3rd party ad content" width="970"></iframe>
+2018-09-14 10:02:08,792:seleniumContinusCrawler.SeleniumContinusCrawler:
+2018-09-14 10:02:08,796:genericContinus.GenericPage:element width: 970
+2018-09-14 10:02:08,796:genericContinus.GenericPage:element height: 250
+2018-09-14 10:02:08,813:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0 
+2018-09-14 10:02:08,820:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-14 10:02:08,820:helperContinus.HelperClass:{'height': 253.5, 'width': 970.0}
+2018-09-14 10:02:08,973:helperContinus.HelperClass:C:\Users\User\Desktop\add\67aa4ce3e022c25d746664f03aec2a728da106de.png
+2018-09-14 10:02:08,974:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_0
+2018-09-14 10:02:08,977:genericContinus.GenericPage:element width: 970
+2018-09-14 10:02:08,977:genericContinus.GenericPage:element height: 90
+2018-09-14 10:02:08,996:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4 
+2018-09-14 10:02:09,000:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-14 10:02:09,000:helperContinus.HelperClass:{'height': 90.0, 'width': 970.0}
+2018-09-14 10:02:09,038:helperContinus.HelperClass:C:\Users\User\Desktop\add\c2f1ac9110f2c6a2474f6b84dca52388a1f6d0cb.png
+2018-09-14 10:02:09,038:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_4
+2018-09-14 10:02:09,043:genericContinus.GenericPage:element width: 970
+2018-09-14 10:02:09,043:genericContinus.GenericPage:element height: 90
+2018-09-14 10:02:09,054:genericContinus.GenericPage:Before screenshot google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6 
+2018-09-14 10:02:09,060:helperContinus.HelperClass:{'x': 0, 'y': 0}
+2018-09-14 10:02:09,060:helperContinus.HelperClass:{'height': 90.0, 'width': 970.0}
+2018-09-14 10:02:09,096:helperContinus.HelperClass:C:\Users\User\Desktop\add\38b78872b78d214a0b4d1da4afafbc2eefb1bd97.png
+2018-09-14 10:02:09,097:genericContinus.GenericPage:screenshot taken google_ads_iframe_/3048/d.thetimes.co.uk/homepage_6
+2018-09-14 10:02:09,097:helperContinus.HelperClass:C:\Users\User\Desktop\add
+2018-09-14 10:02:09,101:helperContinus.HelperClass:559
+2018-09-14 10:02:09,165:helperContinus.HelperClass:558
+2018-09-14 10:02:23,624:helperContinus.HelperClass: Number of duplicates 2
+2018-09-14 10:02:29,100:seleniumContinusCrawler.SeleniumContinusCrawler:Page number: 2

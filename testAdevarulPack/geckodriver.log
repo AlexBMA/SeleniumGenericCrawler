@@ -1,0 +1,338 @@
+1537255719470	geckodriver	INFO	geckodriver 0.21.0
+1537255719476	geckodriver	INFO	Listening on 127.0.0.1:61353
+1537255722524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.Z508vwLbgrZc"
+*** You are running in headless mode.
+1537255724003	Marionette	INFO	Listening on port 61368
+1537255724180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255724201	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255724202	Marionette	DEBUG	[6442450945] Frame script registered
+1537255724222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255724445	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: https://adevarul.ro/sites/adevarul.ro/ui/js/libs/modernizr-2.5.3.min.js?v=15, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://adevarul.ro/sites/adevarul.ro/ui/js/libs/modernizr-2.5.3.min.js?v=15, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://adevarul.ro/sites/adevarul.ro/ui/js/libs/modernizr-2.5.3.min.js?v=15, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://adevarul.ro/sites/adevarul.ro/ui/js/libs/modernizr-2.5.3.min.js?v=15, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1537255724887	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://adevarul.ro/
+1537255726849	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1537255728630	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451012
+1537255728795	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451023
+JavaScript error: https://secure-ds.serving-sys.com/BurstingRes/Site-107581/WSFolders/12872090//scripts/script.js, line 90: ReferenceError: initEB is not defined
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_446650&tagType=imp&host=ro-gmtdmp.mookie1.com&src.rand=219065064&src.campaignID=906219&src.placementID=25601014, line 21: SecurityError: Permission denied to access property "__cmp" on cross-origin object
+1537255729035	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro/
+1537255730245	geckodriver	INFO	geckodriver 0.21.0
+1537255730251	geckodriver	INFO	Listening on 127.0.0.1:61528
+1537255733290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.RdKXel3waGDd"
+*** You are running in headless mode.
+1537255734414	Marionette	INFO	Listening on port 61545
+1537255734902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255734921	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255734922	Marionette	DEBUG	[6442450945] Frame script registered
+1537255734932	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255735115	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255735120	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/16/5b9e43d4df52022f75810674/400x200.jpg?1537190950
+1537255735578	Marionette	INFO	Stopped listening on port 61545
+[Parent 7604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2880,[Child 7764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7764, Chrome[Parent 7604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11056, Chr1537255736085	geckodriver	INFO	geckodriver 0.21.0
+1537255736090	geckodriver	INFO	Listening on 127.0.0.1:61593
+1537255739124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.75AESi7ewTQX"
+*** You are running in headless mode.
+1537255740229	Marionette	INFO	Listening on port 61626
+1537255740245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255740266	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255740272	Marionette	DEBUG	[6442450945] Frame script registered
+1537255740298	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255740529	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255740535	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/05/24/5b068efbdf52022f755bc9d4/80x80.jpg
+1537255740696	Marionette	INFO	Stopped listening on port 61626
+1537255740709	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 12584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7140, Chrome_ChildThread] WARNING: pi[Parent 12584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6972, Chrom[Parent 12584, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109:1537255741199	geckodriver	INFO	geckodriver 0.21.0
+1537255741205	geckodriver	INFO	Listening on 127.0.0.1:61660
+1537255744243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.mxGpnQLPGNRg"
+*** You are running in headless mode.
+1537255745344	Marionette	INFO	Listening on port 61691
+1537255745355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255745378	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255745382	Marionette	DEBUG	[6442450945] Frame script registered
+1537255745411	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255745638	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255745644	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/18/5ba085b2df52022f758ebd4c/400x200.jpg
+1537255745796	Marionette	INFO	Stopped listening on port 61691
+1537255745809	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8812, Chrome_ChildThread] [Child 13540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540, Chrome_ChildThread][Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10256, Chrom1537255746297	geckodriver	INFO	geckodriver 0.21.0
+1537255746303	geckodriver	INFO	Listening on 127.0.0.1:61746
+1537255749335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.BVleljoAxyDg"
+*** You are running in headless mode.
+1537255750427	Marionette	INFO	Listening on port 61797
+1537255750449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255750470	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255750480	Marionette	DEBUG	[6442450945] Frame script registered
+1537255750497	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255750743	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255750757	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/06/12/5b1fb7c0df52022f75139591/400x200.jpg
+1537255750918	Marionette	INFO	Stopped listening on port 61797
+1537255750931	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 4952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13304, Chrome_ChildThrea[Child 8064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8064, Chrome_ChildThread] WARNING: pi[Parent 4952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2892, Chrome_ChildT1537255751418	geckodriver	INFO	geckodriver 0.21.0
+1537255751424	geckodriver	INFO	Listening on 127.0.0.1:61819
+1537255754455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.p94vm74EPtbQ"
+*** You are running in headless mode.
+1537255755587	Marionette	INFO	Listening on port 61831
+1537255756066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255756087	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255756088	Marionette	DEBUG	[6442450945] Frame script registered
+1537255756098	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255756526	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255756533	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/17/5b9f9a75df52022f7588eed2/71x53.jpg
+1537255756819	Marionette	INFO	Stopped listening on port 61831
+[Parent 10428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14804, Chrome_ChildThre[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6812, [Parent 10428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8088, Chrome_1537255757317	geckodriver	INFO	geckodriver 0.21.0
+1537255757322	geckodriver	INFO	Listening on 127.0.0.1:61858
+1537255760354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.HGghcMXuQpPO"
+*** You are running in headless mode.
+1537255761505	Marionette	INFO	Listening on port 61870
+1537255761964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255761985	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255761986	Marionette	DEBUG	[6442450945] Frame script registered
+1537255761996	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255762161	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255762214	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2017/10/09/59db088d5ab6550cb8f41665/974x468.jpg
+1537255762393	Marionette	INFO	Stopped listening on port 61870
+1537255762407	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 7624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14664, Chrome_ChildThre[Parent 7624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1148, Chrome[Parent 7624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14496, Chrome_Chi1537255762891	geckodriver	INFO	geckodriver 0.21.0
+1537255762896	geckodriver	INFO	Listening on 127.0.0.1:61894
+1537255765929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.qP3zme5OUQwt"
+*** You are running in headless mode.
+1537255767026	Marionette	INFO	Listening on port 61906
+1537255767046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255767066	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255767069	Marionette	DEBUG	[6442450945] Frame script registered
+1537255767096	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255767345	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255767351	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/08/22/5b7d1c51df52022f75a85db7/316x158.jpg
+1537255767515	Marionette	INFO	Stopped listening on port 61906
+1537255767528	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Child 15148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15148, Chrome_ChildThre[Parent 2968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6812, Chro[Parent 2968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5824, Chrome_ChildThread1537255768012	geckodriver	INFO	geckodriver 0.21.0
+1537255768017	geckodriver	INFO	Listening on 127.0.0.1:61928
+1537255771031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.HftBYHQQ2NIb"
+*** You are running in headless mode.
+1537255772105	Marionette	INFO	Listening on port 61940
+1537255772145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255772169	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255772170	Marionette	DEBUG	[6442450945] Frame script registered
+1537255772198	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255772462	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255772475	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/16/5b9e7670df52022f75822c9c/50x50.jpg?1537119627
+1537255772617	Marionette	INFO	Stopped listening on port 61940
+1537255772632	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 7920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4592, Chrom[Parent 7920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14284, Chrome[Parent 7920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5568, Chrome_ChildThread] 1537255773115	geckodriver	INFO	geckodriver 0.21.0
+1537255773121	geckodriver	INFO	Listening on 127.0.0.1:61961
+1537255776153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.rNYFodN1fS3F"
+*** You are running in headless mode.
+1537255777247	Marionette	INFO	Listening on port 61975
+1537255777274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255777293	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255777296	Marionette	DEBUG	[6442450945] Frame script registered
+1537255777316	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255777592	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255777599	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/17/5b9fb285df52022f75898dec/298x230.jpg
+1537255777817	Marionette	INFO	Stopped listening on port 61975
+1537255777832	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11776, Chrome_ChildThread][Child 8236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8236, Chr[Parent 116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5016, Chrome_ChildThread] 1537255778325	geckodriver	INFO	geckodriver 0.21.0
+1537255778332	geckodriver	INFO	Listening on 127.0.0.1:61998
+1537255781367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.wEigpSctidSb"
+*** You are running in headless mode.
+1537255782518	Marionette	INFO	Listening on port 62011
+1537255782979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537255783006	Marionette	DEBUG	[6442450945] Frame script loaded
+1537255783007	Marionette	DEBUG	[6442450945] Frame script registered
+1537255783017	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537255783184	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537255783190	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://adevarul.ro//assets/adevarul.ro/MRImage/2018/09/10/5b9666a2df52022f754c9ce3/298x230.jpg
+1537255783336	Marionette	INFO	Stopped listening on port 62011
+1537255783348	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1588:20
+_shutdown@XPIProvider.jsm:1724:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 13744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5020, Chrome_Child[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10428, Chrome[Parent 13744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537255783836	geckodriver	INFO	geckodriver 0.21.0
+1537255783841	geckodriver	INFO	Listening on 127.0.0.1:62036
+1537255786874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.hSkaO3H522U9"
+*** You are running in headless mode.
